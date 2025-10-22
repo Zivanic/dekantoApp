@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dekanto App</string>
+    <string name="title_activity_main">Dekanto App</string>
+    <string name="package_name">com.dekanto.app</string>
+    <string name="custom_url_scheme">com.dekanto.app</string>
+</resources>

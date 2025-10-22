@@ -1,0 +1,8 @@
+{
+  "appId": "com.dekanto.app",
+  "appName": "Dekanto App",
+  "webDir": "www",
+  "server": {
+    "url": "https://dekanto.rs"
+  }
+}
